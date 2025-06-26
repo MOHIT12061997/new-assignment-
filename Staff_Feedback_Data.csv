@@ -1,0 +1,6 @@
+Staff_ID,Daily_Operational_Challenges,Equipment_Malfunctions_Frequency,Training_Adequacy,Policy_Effectiveness,Additional_Training_Needs,Perceived_Customer_Satisfaction,Efficiency_Improvement_Suggestions
+1,"Equipment breakdowns, High absenteeism",Often (5+ times a month),Not trained at all,Ineffective,Technical troubleshooting,Neutral,Proactive maintenance scheduling
+2,"Customer complaints, Overwhelming workload",Sometimes (3-4 times a month),Somewhat trained,Neutral,Customer interaction skills,Dissatisfied,Improved staffing levels
+3,"High absenteeism, Customer complaints",Rarely (1-2 times a month),Somewhat trained,Ineffective,Stress management,Satisfied,Regular training programs
+4,"Overwhelming workload, Equipment breakdowns",Often (5+ times a month),Not trained at all,Very Ineffective,Technical troubleshooting,Dissatisfied,Proactive maintenance scheduling
+5,"Customer complaints, Equipment breakdowns",Sometimes (3-4 times a month),Somewhat trained,Neutral,Customer interaction skills,Neutral,Better workload distribution

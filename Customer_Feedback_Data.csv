@@ -1,0 +1,21 @@
+Customer_ID,Satisfaction,Primary_Reason,Booking_Ease,Appointment_Issues,Policy_Fairness,Recommendation,Staff_Professionalism,Improvement_Suggestions
+1,Very Satisfied,Hair Removal Treatment,Very Easy,None,Very Fair,Definitely,Excellent,Better scheduling
+2,Satisfied,Skin Services,Easy,Appointment rescheduled,Fair,Probably,Good,Flexible refund policy
+3,Neutral,Cosmetic Injectables,Neutral,Equipment malfunction,Neutral,Neutral,Neutral,More staff during peak hours
+4,Satisfied,Hair Removal Treatment,Easy,Long waiting time,Fair,Probably,Good,Better scheduling
+5,Dissatisfied,Skin Services,Difficult,None,Unfair,Probably Not,Poor,Improved machines
+6,Satisfied,Hair Removal Treatment,Very Easy,Appointment rescheduled,Fair,Definitely,Excellent,Flexible refund policy
+7,Very Satisfied,Skin Services,Easy,Equipment malfunction,Very Fair,Probably,Good,More staff during peak hours
+8,Neutral,Hair Removal Treatment,Neutral,Long waiting time,Neutral,Neutral,Neutral,Better scheduling
+9,Satisfied,Cosmetic Injectables,Very Easy,None,Fair,Definitely,Excellent,Improved machines
+10,Very Satisfied,Hair Removal Treatment,Easy,Appointment rescheduled,Very Fair,Probably,Good,Flexible refund policy
+11,Neutral,Skin Services,Neutral,Equipment malfunction,Neutral,Neutral,Neutral,More staff during peak hours
+12,Satisfied,Hair Removal Treatment,Easy,Long waiting time,Fair,Probably,Good,Better scheduling
+13,Very Satisfied,Cosmetic Injectables,Very Easy,None,Very Fair,Definitely,Excellent,Improved machines
+14,Satisfied,Skin Services,Neutral,Appointment rescheduled,Neutral,Neutral,Neutral,Flexible refund policy
+15,Dissatisfied,Hair Removal Treatment,Difficult,None,Unfair,Probably Not,Poor,More staff during peak hours
+16,Satisfied,Hair Removal Treatment,Very Easy,None,Fair,Definitely,Excellent,Better scheduling
+17,Very Satisfied,Skin Services,Easy,Appointment rescheduled,Very Fair,Probably,Good,Improved machines
+18,Neutral,Cosmetic Injectables,Neutral,None,Neutral,Neutral,Neutral,Flexible refund policy
+19,Neutral,Hair Removal Treatment,Easy,Long waiting time,Neutral,Probably,Good,More staff during peak hours
+20,Satisfied,Skin Services,Neutral,None,Fair,Neutral,Neutral,Better scheduling
